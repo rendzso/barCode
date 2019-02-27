@@ -1,0 +1,22 @@
+{
+  "name": "barcode",
+  "version": "1.0.0",
+  "description": "csvparser",
+  "main": "index.js",
+  "dependencies": {
+    "winston": "3.2.1",
+    "fast-csv": "2.4.1",
+    "fs": "0.0.1-security",
+    "jsbarcode": "3.11.0",
+    "canvas": "2.3.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "barcode",
+    "csvparse"
+  ],
+  "author": "Rendzso",
+  "license": "ISC"
+}
